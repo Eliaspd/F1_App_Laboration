@@ -44,6 +44,5 @@
         app:layout_constraintTop_toBottomOf="@id/editTextPassword"
         app:layout_constraintVertical_bias="0.361" />
 
-    <!-- Lägg till fler komponenter om det behövs -->
 
 </androidx.constraintlayout.widget.ConstraintLayout>

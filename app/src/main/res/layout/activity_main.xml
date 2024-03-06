@@ -41,6 +41,5 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ic_launcher_foreground" />
 
-    <!-- Lägg till fler komponenter om det behövs -->
 
 </androidx.constraintlayout.widget.ConstraintLayout>
